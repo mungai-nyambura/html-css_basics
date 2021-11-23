@@ -1,0 +1,34 @@
+body {
+    color: black;
+    background-color: #f9d5e5;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+    color: #e0876a;
+}
+
+h2 {
+    color:  #e06377;
+}
+h4 {
+    color: #d9ad7c;
+}
+
+#html-anatomy-heading {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#introduction-ps {
+    font-style: italic;
+    font-size: 1em;
+}
